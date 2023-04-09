@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57974829934",
+    "project_id": "place-to-place-edd43",
+    "storage_bucket": "place-to-place-edd43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57974829934:android:abcc6cfded65083c16077f",
+        "android_client_info": {
+          "package_name": "com.example.placetoplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57974829934-kuk131h12t1uh6qaecndqg9mkjnt0r3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn68Z6W-uj1s82UbGTZAMzx34jf6xaHjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57974829934-kuk131h12t1uh6qaecndqg9mkjnt0r3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
